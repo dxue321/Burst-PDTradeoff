@@ -18,4 +18,5 @@ Our method is implemented based on code from the following projects:
  - Synthetic burst generation code from https://github.com/goutamgmb/deep-burst-sr
  - ESRGAN code from https://github.com/xinntao/ESRGAN
  - Evaluation method from https://github.com/XPixelGroup/BasicSR
+ 
 We thank the authors for their open-source code.
