@@ -5,7 +5,7 @@ This is the code repository for the paper:
 >
 > [Danna Xue](https://github.com/dxue321), [Luis Herranz](http://www.lherranz.org), [Javier Vazquez Corral](https://www.jvazquez-corral.net/), and Yanning Zhang
 > 
-> **ICASSP 2023 **
+> **ICASSP 2023**
 
 The code is Coming soon...
 
